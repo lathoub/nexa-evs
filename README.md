@@ -6,10 +6,10 @@ The Pynch Nexa application exposes an [HTTP RESTful API](https://github.com/lath
 
 ## Compatible EVS Products
 
-- XT-VIA
-- XT-GO
-- XS-VIA
-- XS-NEO
+- [XT-VIA](https://evs.com/products/live-production-servers/xt-via)
+- [XT-GO](https://evs.com/products/live-production-servers/xt-go)
+- [XS-VIA](https://evs.com/products/live-production-servers/xs-via)
+- [XS-NEO](https://evs.com/products/live-production-servers/xt-neo)
 
 ## How does it work?
 
@@ -18,5 +18,3 @@ The Pynch Nexa application interacts with the underlying EVS software and expose
 The [RESTful API](https://github.com/lathoub/nexa-api) definition is agnostic of the underlying (EVS) hardware and can be use for other audio-video devices as well (a Decklink Hyperdeck version is also under development).
 
 <img width="1435" alt="Screenshot 2023-09-18 at 08 43 27" src="https://github.com/lathoub/nexa-evs/assets/4082369/429b5ad0-a1af-4a9e-87be-30627acf54cf">
-
-## Does it affect the work
