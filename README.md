@@ -2,7 +2,7 @@ A developer friendly RESP-API for EVS Live Production Servers.
 
 # Pynch Nexa for EVS Live Production Severs
 
-The Pynch Nexa application exposes an [HTTP RESTful API](https://github.com/lathoub/nexa-api) to help with the automation of the EVS Live Production Severs suite. Nexa run on top of the EVS technology stack and does not alter its working.
+The Pynch Nexa application exposes an [HTTP RESTful API](https://github.com/lathoub/nexa-api) to help with the automation of the [EVS Live Production Severs](https://evs.com/products/live-production-servers) suite. Nexa run on top of the EVS technology stack and does not alter nor does it interfere with its (inner) working.
 
 ## Compatible EVS Products
 
