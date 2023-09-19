@@ -13,6 +13,9 @@ The Pynch Nexa for EVS is a **Windows** only application, a limitation inherited
 - [XS-VIA](https://evs.com/products/live-production-servers/xs-via)
 - [XS-NEO](https://evs.com/products/live-production-servers/xt-neo)
 
+## Installation and prerequisites
+Described in the [wiki section](https://github.com/lathoub/nexa-evs/wiki/Installation).
+
 ## How does it work?
 
 The Pynch Nexa application interacts with the underlying EVS software and exposes it through a [RESTful API](https://github.com/lathoub/nexa-api). No need to deal with the inner workings of the EVS machines, but use the very familar HTTP protocol to control all the functions of the EVS servers.
