@@ -1,4 +1,4 @@
-A developer friendly RESP-API for EVS Live Production Servers.
+A developer friendly REST-API for EVS Live Production Servers.
 
 # Pynch Nexa for EVS Live Production Severs
 
